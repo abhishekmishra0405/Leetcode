@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhishekmishra0405/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abhishekmishra0405/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/abhishekmishra0405/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/abhishekmishra0405/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/abhishekmishra0405/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhishekmishra0405/Leetcode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/abhishekmishra0405/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhishekmishra0405/Leetcode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/abhishekmishra0405/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
