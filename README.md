@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishekmishra0405/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/abhishekmishra0405/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/abhishekmishra0405/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abhishekmishra0405/Leetcode/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abhishekmishra0405/Leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abhishekmishra0405/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
