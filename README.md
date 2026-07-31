@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhishekmishra0405/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekmishra0405/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekmishra0405/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/abhishekmishra0405/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
