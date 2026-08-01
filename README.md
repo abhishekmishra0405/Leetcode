@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/abhishekmishra0405/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekmishra0405/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhishekmishra0405/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhishekmishra0405/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhishekmishra0405/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhishekmishra0405/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhishekmishra0405/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
