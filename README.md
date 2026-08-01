@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abhishekmishra0405/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abhishekmishra0405/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/abhishekmishra0405/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/abhishekmishra0405/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/abhishekmishra0405/Leetcode/tree/master/0044-wildcard-matching) |
 | [0763-partition-labels](https://github.com/abhishekmishra0405/Leetcode/tree/master/0763-partition-labels) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abhishekmishra0405/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abhishekmishra0405/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
