@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abhishekmishra0405/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0337-house-robber-iii) |
 | [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/abhishekmishra0405/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -311,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0113-path-sum-ii) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
