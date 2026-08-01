@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0938-range-sum-of-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0938-range-sum-of-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -234,4 +236,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/abhishekmishra0405/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
