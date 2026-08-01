@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abhishekmishra0405/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekmishra0405/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhishekmishra0405/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 ## Math
 |  |
 | ------- |
@@ -177,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/abhishekmishra0405/Leetcode/tree/master/0214-shortest-palindrome) |
+## Tree
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
