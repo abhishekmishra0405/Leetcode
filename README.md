@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhishekmishra0405/Leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0564-find-the-closest-palindrome](https://github.com/abhishekmishra0405/Leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0779-k-th-symbol-in-grammar](https://github.com/abhishekmishra0405/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/abhishekmishra0405/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhishekmishra0405/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0394-decode-string) |
+| [0779-k-th-symbol-in-grammar](https://github.com/abhishekmishra0405/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Greedy
 |  |
 | ------- |
