@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abhishekmishra0405/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhishekmishra0405/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhishekmishra0405/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
