@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhishekmishra0405/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abhishekmishra0405/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/abhishekmishra0405/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/abhishekmishra0405/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekmishra0405/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhishekmishra0405/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhishekmishra0405/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/abhishekmishra0405/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Stack
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhishekmishra0405/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0113-path-sum-ii) |
 ## Memoization
