@@ -1,20 +1,19 @@
 class Solution {
+    public void swap(int i, int j, int[] nums) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+
     public int findDuplicate(int[] nums) {
-        int slow = nums[0];
-        int fast = nums[0];
+        while (true) {
+            int ele = nums[0];
 
-        do {
-            slow = nums[slow];
-            fast = nums[nums[fast]];
-        } while (slow != fast);
+            if (nums[ele] == ele) {
+                return ele;
+            }
 
-        slow = nums[0];
-
-        while (slow != fast) {
-            slow = nums[slow];
-            fast = nums[fast];
+            swap(0, ele, nums);
         }
-
-        return slow;
     }
 }
