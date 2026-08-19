@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/abhishekmishra0405/Leetcode/tree/master/0763-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
