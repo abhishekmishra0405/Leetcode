@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhishekmishra0405/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abhishekmishra0405/Leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0268-missing-number) |
 | [0564-find-the-closest-palindrome](https://github.com/abhishekmishra0405/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0779-k-th-symbol-in-grammar](https://github.com/abhishekmishra0405/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekmishra0405/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhishekmishra0405/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekmishra0405/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abhishekmishra0405/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -406,5 +409,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhishekmishra0405/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
