@@ -19,15 +19,17 @@ class Solution {
         Node t1 = head;
         Node t2 = head2;
 
+        Node dummy = new Node(-1);
+        Node t = dummy;
+
         while (t1 != null && t2 != null) {
-            Node temp1 = t1.next;
-            Node temp2 = t2.next;
+            t.next = t1;
+            t1 = t1.next;
+            t = t.next;
 
-            t1.next = t2;
-            t2.next = temp1;
-
-            t1 = temp1;
-            t2 = temp2;
+            t.next = t2;
+            t2 = t2.next;
+            t = t.next;
         }
     }
 
@@ -41,7 +43,7 @@ class Solution {
             if (t1.random != null)
                 t2.random = t1.random.next;
 
-            t1 = t2.next;
+            t1 = t1.next.next;
         }
     }
 
@@ -65,19 +67,18 @@ class Solution {
         if (head == null)
             return null;
 
-        // Step 1: Create deep copy without random connections
+        // Step 1: Create deep copy
         Node head2 = deepCopy(head);
 
-        // Step 2: Join head and head2 alternatively
+        // Step 2: Connect alternatively
         connectAlternatively(head, head2);
 
         // Step 3: Assign random pointers
         assignRandom(head, head2);
 
-        // Step 4: Split the linked list
+        // Step 4: Split the lists
         split(head, head2);
 
         return head2;
     }
 }
-   
