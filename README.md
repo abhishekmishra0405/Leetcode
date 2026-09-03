@@ -184,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekmishra0405/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekmishra0405/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhishekmishra0405/Leetcode/tree/master/0085-maximal-rectangle) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/abhishekmishra0405/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/abhishekmishra0405/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
