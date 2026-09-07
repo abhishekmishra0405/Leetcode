@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0337-house-robber-iii) |
 | [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [0940-distinct-subsequences-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/abhishekmishra0405/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/abhishekmishra0405/Leetcode/tree/master/0763-partition-labels) |
+| [0940-distinct-subsequences-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
