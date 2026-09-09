@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abhishekmishra0405/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/abhishekmishra0405/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abhishekmishra0405/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/abhishekmishra0405/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
