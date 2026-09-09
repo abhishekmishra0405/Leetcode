@@ -1,42 +1,81 @@
+import java.util.*;
+
 class Solution {
-    public int maximalRectangle(char[][] matrix) {
-        if (matrix == null || matrix.length == 0) return 0;
 
-        int m = matrix.length, n = matrix[0].length;
-        int[] heights = new int[n];
-        int maxArea = 0;
+    public int largestRectangleArea(int[] arr) {
+        int n = arr.length;
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == '1')
-                    heights[j]++;
-                else
-                    heights[j] = 0;
+        Stack<Integer> st = new Stack<>();
+        int[] nse = new int[n];
+
+        nse[n - 1] = n;
+        st.push(n - 1);
+
+        for (int i = n - 2; i >= 0; i--) {
+            while (st.size() > 0 && arr[st.peek()] >= arr[i]) {
+                st.pop();
             }
 
-            maxArea = Math.max(maxArea, largestRectangleArea(heights));
+            if (st.size() == 0)
+                nse[i] = n;
+            else
+                nse[i] = st.peek();
+
+            st.push(i);
+        }
+
+        while (st.size() > 0)
+            st.pop();
+
+        int[] pse = new int[n];
+        pse[0] = -1;
+        st.push(0);
+
+        for (int i = 1; i < n; i++) {
+            while (st.size() > 0 && arr[st.peek()] >= arr[i]) {
+                st.pop();
+            }
+
+            if (st.size() == 0)
+                pse[i] = -1;
+            else
+                pse[i] = st.peek();
+
+            st.push(i);
+        }
+
+        int maxArea = 0;
+
+        for (int i = 0; i < n; i++) {
+            int area = arr[i] * (nse[i] - pse[i] - 1);
+            maxArea = Math.max(maxArea, area);
         }
 
         return maxArea;
     }
 
-    private int largestRectangleArea(int[] heights) {
-        Stack<Integer> stack = new Stack<>();
-        int maxArea = 0;
-        int n = heights.length;
+    public int maximalRectangle(char[][] matrix) {
 
-        for (int i = 0; i <= n; i++) {
-            int currHeight = (i == n) ? 0 : heights[i];
+        int m = matrix.length;
+        int n = matrix[0].length;
 
-            while (!stack.isEmpty() && currHeight < heights[stack.peek()]) {
-                int height = heights[stack.pop()];
-                int width = stack.isEmpty() ? i : i - stack.peek() - 1;
-                maxArea = Math.max(maxArea, height * width);
+        int[] height = new int[n];
+        int max = 0;
+
+        for (int i = 0; i < m; i++) {
+
+            for (int j = 0; j < n; j++) {
+
+                if (matrix[i][j] == '1') {
+                    height[j]++;
+                } else {
+                    height[j] = 0;
+                }
             }
 
-            stack.push(i);
+            max = Math.max(max, largestRectangleArea(height));
         }
 
-        return maxArea;
+        return max;
     }
 }
