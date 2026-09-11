@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhishekmishra0405/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/abhishekmishra0405/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekmishra0405/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhishekmishra0405/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/abhishekmishra0405/Leetcode/tree/master/0763-partition-labels) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/abhishekmishra0405/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [2487-remove-nodes-from-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -521,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekmishra0405/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
