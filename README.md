@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekmishra0405/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhishekmishra0405/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/abhishekmishra0405/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/abhishekmishra0405/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0779-k-th-symbol-in-grammar](https://github.com/abhishekmishra0405/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3870-count-commas-in-range](https://github.com/abhishekmishra0405/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekmishra0405/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhishekmishra0405/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/abhishekmishra0405/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/abhishekmishra0405/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2326-spiral-matrix-iv](https://github.com/abhishekmishra0405/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Doubly-Linked List
 |  |
