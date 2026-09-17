@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekmishra0405/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/0682-baseball-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhishekmishra0405/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhishekmishra0405/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/abhishekmishra0405/Leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0940-distinct-subsequences-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhishekmishra0405/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhishekmishra0405/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Math
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhishekmishra0405/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/abhishekmishra0405/Leetcode/tree/master/0763-partition-labels) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhishekmishra0405/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhishekmishra0405/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishekmishra0405/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/abhishekmishra0405/Leetcode/tree/master/0493-reverse-pairs) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhishekmishra0405/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/abhishekmishra0405/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhishekmishra0405/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
