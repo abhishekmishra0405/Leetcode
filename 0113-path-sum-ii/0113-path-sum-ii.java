@@ -1,41 +1,40 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 
 class Solution {
-    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        List<List<Integer>> result = new ArrayList<>();
-        dfs(root, targetSum, new ArrayList<>(), result);
-        return result;
+    public List<Integer> copy(List<Integer> arr) {
+        List<Integer> list = new ArrayList<>();
+        for (int ele : arr) {
+            list.add(ele);
+        }
+        return list;
     }
 
-    private void dfs(TreeNode node, int target, List<Integer> path,
-                     List<List<Integer>> result) {
-        if (node == null) {
+    public void helper(TreeNode root, int target, List<Integer> arr,
+                       List<List<Integer>> ans) {
+        if (root == null) return;
+
+        if (root.left == null && root.right == null) {
+            if (root.val == target) {
+                arr.add(root.val);
+                ans.add(copy(arr));
+                arr.remove(arr.size() - 1);
+            }
             return;
         }
 
-        path.add(node.val);
+        arr.add(root.val);
 
-        if (node.left == null && node.right == null && target == node.val) {
-            result.add(new ArrayList<>(path));
-        } else {
-            dfs(node.left, target - node.val, path, result);
-            dfs(node.right, target - node.val, path, result);
-        }
+        List<Integer> arr1 = copy(arr);
+        List<Integer> arr2 = copy(arr);
 
-        path.remove(path.size() - 1);
+        helper(root.left, target - root.val, arr1, ans);
+        helper(root.right, target - root.val, arr2, ans);
+    }
+
+    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> arr = new ArrayList<>();
+
+        helper(root, targetSum, arr, ans);
+        return ans;
     }
 }
