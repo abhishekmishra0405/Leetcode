@@ -1,43 +1,21 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
-
 class Solution {
-    public int pathSum(TreeNode root, int targetSum) {
-        Map<Long, Integer> prefix = new HashMap<>();
-        prefix.put(0L, 1);
-        return dfs(root, 0L, targetSum, prefix);
-    }
+    public int helper(TreeNode root, long sum) {
+        if (root == null) return 0;
 
-    private int dfs(TreeNode node, long currSum, int target,
-                    Map<Long, Integer> prefix) {
-        if (node == null) {
-            return 0;
-        }
+        int count = 0;
+        if (root.val == sum) count++;
 
-        currSum += node.val;
-
-        int count = prefix.getOrDefault(currSum - target, 0);
-
-        prefix.put(currSum, prefix.getOrDefault(currSum, 0) + 1);
-
-        count += dfs(node.left, currSum, target, prefix);
-        count += dfs(node.right, currSum, target, prefix);
-
-        prefix.put(currSum, prefix.get(currSum) - 1);
+        count += helper(root.left, sum - root.val)
+               + helper(root.right, sum - root.val);
 
         return count;
+    }
+
+    public int pathSum(TreeNode root, int sum) {
+        if (root == null) return 0;
+
+        return helper(root, sum)
+             + pathSum(root.left, sum)
+             + pathSum(root.right, sum);
     }
 }
