@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0938-range-sum-of-bst) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/abhishekmishra0405/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/abhishekmishra0405/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhishekmishra0405/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhishekmishra0405/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Backtracking
 |  |
