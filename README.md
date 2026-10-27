@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhishekmishra0405/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/abhishekmishra0405/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekmishra0405/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekmishra0405/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhishekmishra0405/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhishekmishra0405/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekmishra0405/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekmishra0405/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3870-count-commas-in-range](https://github.com/abhishekmishra0405/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekmishra0405/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekmishra0405/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhishekmishra0405/Leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/abhishekmishra0405/Leetcode/tree/master/0763-partition-labels) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhishekmishra0405/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekmishra0405/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishekmishra0405/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
@@ -624,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekmishra0405/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekmishra0405/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
